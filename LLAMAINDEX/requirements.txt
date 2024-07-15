@@ -1,0 +1,11 @@
+# please install the dependencies directly through "pip install -r requirements.txt"
+
+llama-index
+python-dotenv
+google-generativeai
+llama-index-llms-gemini
+pypdf
+python-dotenv
+IPython
+streamlit
+llama-index-embeddings-gemini
