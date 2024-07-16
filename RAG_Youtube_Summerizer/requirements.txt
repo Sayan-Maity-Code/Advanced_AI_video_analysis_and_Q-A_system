@@ -1,0 +1,11 @@
+faiss_cpu==1.8.0.post1
+moviepy==1.0.3
+numpy==1.24.3
+opencv_python==4.8.1.78
+Pillow==10.4.0
+sentence_transformers==3.0.1
+SpeechRecognition==3.10.0
+streamlit==1.32.2
+torch==2.2.0
+transformers==4.42.4
+yt_dlp==2024.7.9
