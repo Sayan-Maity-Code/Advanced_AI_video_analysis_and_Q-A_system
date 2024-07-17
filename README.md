@@ -50,11 +50,17 @@ pip install -r requirements.txt
 - CLIP model: "openai/clip-vit-base-patch32"
 - FLAN-T5 model: "google/flan-t5-large"
 
-### Option 2: Video Link
+## Demo
 
-[![Video Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+<p align="center">
+  <a href="https://www.linkedin.com/posts/sayan-maity-756b8b244_developing-an-ai-powered-video-analysis-and-activity-7219230424017858561-JvnJ?utm_source=share&utm_medium=member_desktop">
+    <img src="path/to/your/thumbnail/image.png" alt="AI Video Analysis and Q&A System Demo" width="600">
+  </a>
+</p>
 
-Click the image above to watch a demo of the AI Advanced Video Analysis and Q&A System in action.
+<p align="center">
+  Click the image above to watch a demo of the AI Advanced Video Analysis and Q&A System in action on LinkedIn.
+</p>
 
 ## Usage
 
