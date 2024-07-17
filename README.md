@@ -50,6 +50,12 @@ pip install -r requirements.txt
 - CLIP model: "openai/clip-vit-base-patch32"
 - FLAN-T5 model: "google/flan-t5-large"
 
+### Option 2: Video Link
+
+[![Video Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+
+Click the image above to watch a demo of the AI Advanced Video Analysis and Q&A System in action.
+
 ## Usage
 
 1. Run the Streamlit app:
