@@ -53,9 +53,15 @@ pip install -r requirements.txt
 ## Demo
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/sayan-maity-756b8b244_developing-an-ai-powered-video-analysis-and-activity-7219230424017858561-JvnJ?utm_source=share&utm_medium=member_desktop">
-    <img src="path/to/your/thumbnail/image.png" alt="AI Video Analysis and Q&A System Demo" width="600">
-  </a>
+  <img src="path/to/your/demo.gif" alt="AI Video Analysis and Q&A System Demo" width="600">
+</p>
+
+<p align="center">
+  Demo of the AI Advanced Video Analysis and Q&A System in action.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/sayan-maity-756b8b244_developing-an-ai-powered-video-analysis-and-activity-7219230424017858561-JvnJ?utm_source=share&utm_medium=member_desktop">View full video on LinkedIn</a>
 </p>
 
 <p align="center">
