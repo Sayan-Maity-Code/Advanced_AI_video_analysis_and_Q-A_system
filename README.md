@@ -17,6 +17,10 @@
 
 The AI Advanced Video Analysis and Q&A System is a sophisticated tool that combines video processing, natural language understanding, and machine learning to provide an interactive question-answering experience based on video content. This system downloads videos, extracts key information, and allows users to ask questions about the video's content.
 
+## Documentation
+For reference:  
+[Click here](https://www.llamaindex.ai/blog/multimodal-rag-for-advanced-video-processing-with-llamaindex-lancedb-33be4804822e)
+
 ## Features
 
 - Video download from URL using yt-dlp
@@ -29,13 +33,17 @@ The AI Advanced Video Analysis and Q&A System is a sophisticated tool that combi
 ## Installation
 
 1. Clone the repository:
-
-git clone https://github.com/yourusername/ai-video-analysis-qa.git
-cd ai-video-analysis-qa
+```bash
+git clone https://github.com/Sayan-Maity-Code/Advanced_AI_video_analysis_and_Q-A_system.git
+```
+```bash
+cd RAG_Youtube_Summerizer
+```
 
 2. Install the required dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
 3. Download the necessary model files (not included in the repository due to size):
 - SentenceTransformer model: 'all-MiniLM-L6-v2'
