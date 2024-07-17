@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## Demo
 
 <p align="center">
-  <img src="path/to/your/demo.gif" alt="AI Video Analysis and Q&A System Demo" width="600">
+  <img src="https://github.com/Sayan-Maity-Code/Advanced_AI_video_analysis_and_Q-A_system/blob/main/RAG_Youtube_Summerizer/demo_vid.gif" alt="AI Video Analysis and Q&A System Demo" width="600">
 </p>
 
 <p align="center">
